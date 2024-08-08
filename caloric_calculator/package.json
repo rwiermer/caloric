@@ -1,0 +1,16 @@
+{
+  "name": "caloric_calculator",
+  "version": "1.0.0",
+  "description": "Caloric needs calculator for Power of the Heart",
+  "main": "dist/script.js",
+  "scripts": {
+    "start": "tsc --watch",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
